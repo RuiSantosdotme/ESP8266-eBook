@@ -1,2 +1,2 @@
-# ESP8266-eBook
-Home Automation Using ESP8266 4th Edition »
+# Home Automation Using ESP8266 (4th Edition) eBook
+Official eBook page: https://RandomNerdTutorials.com/home-automation-using-esp8266/
