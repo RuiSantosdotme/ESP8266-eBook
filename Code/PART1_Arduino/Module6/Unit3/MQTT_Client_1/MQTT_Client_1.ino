@@ -29,11 +29,11 @@ String temperatureString = "";
 unsigned long previousMillis = 0;
 const long interval = 5000;
 
-const int ledPin = 14;
+const int ledPin = 4;
 int ledState = LOW;
 
 // GPIO where the DS18B20 is connected to
-const int oneWireBus = 4;
+const int oneWireBus = 14;
 // Setup a oneWire instance to communicate with any OneWire devices
 OneWire oneWire(oneWireBus);
 // Pass our oneWire reference to Dallas Temperature sensor
