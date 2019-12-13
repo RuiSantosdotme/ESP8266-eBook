@@ -3,7 +3,7 @@
   Complete project details at https://RandomNerdTutorials.com/home-automation-using-esp8266/
 *********/
 
-const int ledPin = 2;
+const int ledPin = 5;
 
 void setup() {
 
